@@ -1,3 +1,3 @@
 public class AA {
-    private int a;
+    private int b;
 }
