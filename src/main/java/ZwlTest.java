@@ -1,11 +1,11 @@
 public class ZwlTest {
-    public String name;
+    public String nameNAME;
 
     public String getName() {
-        return name;
+        return nameNAME;
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.nameNAME = name;
     }
 }
